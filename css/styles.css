@@ -20,12 +20,7 @@ header h2 {
   background-image: linear-gradient(to right, #5637dd, #3046C5, #60106b);
   color: white; }
 
-.row-content {
-    padding: 50px 0;
-    border-bottom: 1px ridge;
-    min-height: 200px;
-}
-  .navbar {
+.navbar {
   background-color: #901CAD; }
 
 .carousel {
@@ -33,11 +28,12 @@ header h2 {
 
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.5); }
-  
 
-#carouselPause{
+.carousel {
+  border: solid #5637dd; }
 
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: 100;
+#carouselPause {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100; }
