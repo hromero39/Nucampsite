@@ -40,10 +40,10 @@ header h2 {
 
 #reserveModal .modal-header {
   background-color: #17A2B8; }
-  #reserveModal .modal-header h3 {
+#reserveModal .modal-header h3 {
     color: white; }
 
 #loginModal .modal-header {
   background-color: #901CAD; }
-  #loginModal .modal-header h3 {
+#loginModal .modal-header h3 {
     color: white; }
